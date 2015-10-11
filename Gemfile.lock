@@ -1,0 +1,15 @@
+GEM
+  remote: http://ruby.taobao.org/
+  specs:
+    tco (0.1.8)
+    thor (0.19.1)
+
+PLATFORMS
+  x86-mingw32
+
+DEPENDENCIES
+  tco
+  thor
+
+BUNDLED WITH
+   1.10.6
